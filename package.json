@@ -1,5 +1,5 @@
 {
-  "name": "websocket",
+  "name": "@web3-js/websocket",
   "description": "Websocket Client & Server Library implementing the WebSocket protocol as specified in RFC 6455.",
   "keywords": [
     "websocket",
@@ -20,9 +20,9 @@
   "version": "1.0.29",
   "repository": {
     "type": "git",
-    "url": "https://github.com/theturtle32/WebSocket-Node.git"
+    "url": "https://github.com/web3-js/WebSocket-Node"
   },
-  "homepage": "https://github.com/theturtle32/WebSocket-Node",
+  "homepage": "https://github.com/web3-js/WebSocket-Node",
   "engines": {
     "node": ">=0.10.0"
   },
